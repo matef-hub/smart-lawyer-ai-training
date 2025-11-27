@@ -4,7 +4,6 @@
 
 # 📚 Smart Lawyer AI – Egyptian Legal Training Dataset
 
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![AI](https://img.shields.io/badge/AI-Legal%20NLP-brightgreen)
 ![Made in Egypt](https://img.shields.io/badge/Made%20in-Egypt-red)
@@ -19,6 +18,7 @@ All datasets are formatted, indexed, and optimized for LLM ingestion and legal r
 ## 📂 Contents
 
 ### **1. Core Egyptian Laws**
+
 - **civil_code_egypt_2022_structured.json**  
   Complete structured version of the Egyptian Civil Code.
 
@@ -34,6 +34,7 @@ All datasets are formatted, indexed, and optimized for LLM ingestion and legal r
 ---
 
 ### **2. Corporate & Investment Laws**
+
 - **company_law_159_1981_exec_reg.json**  
 - **company_law_159_1981_merged_indexed.json**  
 - **investment-law-27-2017.json**  
@@ -43,6 +44,7 @@ Includes Companies Law + Executive Regulations + Investment Law.
 ---
 
 ### **3. AI Training Framework**
+
 - **Legal_AI_CAP_Full_Framework.txt**  
   Full internal framework used for:
   - Role construction  
@@ -96,6 +98,7 @@ Users must verify updated legal texts from official government sources before us
 ## ⭐ Contribute
 
 If you'd like to contribute:
+
 - Add more structured laws  
 - Add summarized court rulings  
 - Improve indexing  
