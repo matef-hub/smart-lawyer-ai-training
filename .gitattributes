@@ -1,0 +1,4 @@
+* text=auto
+*.json linguist-language=JSON
+*.txt  linguist-language=Text
+*.md   linguist-language=Markdown

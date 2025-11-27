@@ -1,0 +1,14 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Archives
+*.zip
+*.rar
+
+# Logs
+*.log
+
+# Dev environments (optional)
+venv/
+node_modules/
