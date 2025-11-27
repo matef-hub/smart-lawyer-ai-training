@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="200" alt="Smart Lawyer AI Logo">
+</p>
+
 # 📚 Smart Lawyer AI – Egyptian Legal Training Dataset
 
 
