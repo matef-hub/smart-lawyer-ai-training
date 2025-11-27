@@ -1,5 +1,12 @@
 # 📚 Smart Lawyer AI – Egyptian Legal Training Dataset
 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![AI](https://img.shields.io/badge/AI-Legal%20NLP-brightgreen)
+![Made in Egypt](https://img.shields.io/badge/Made%20in-Egypt-red)
+
+---
+
 This repository contains the complete structured training dataset used to build and enhance **Smart Lawyer AI**, an advanced legal assistant specialized in Egyptian law.  
 All datasets are formatted, indexed, and optimized for LLM ingestion and legal reasoning tasks.
 
